@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Shriharsh Bankapur</h1>
-  <a href="https://x.com/_shri_B" target="_blank">Connect with me on 𝕏</a> • <a href="https://huggingface.co/Shriharsh" target="_blank">Hugging Face 🤗</a>
+  <a href="https://x.com/_shri_B" target="_blank">Connect with me on 𝕏</a> • <a href="https://huggingface.co/Shriharsh" target="_blank">Hugging Face 🤗</a> 
 </div>
 
 ---
