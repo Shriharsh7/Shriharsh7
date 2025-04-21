@@ -18,7 +18,7 @@ Hi! I’m Shriharsh Bankapur, an aspiring ML Engineer passionate about NLP, Comp
 - **Description:** An AI-powered chatbot for diabetes research that uses BioBERT for embeddings, Pinecone for vector search, and Gemini 2.0 Flash for answer generation. Supports querying 9,999 PubMed abstracts and uploading PDFs for advanced querying.
 - **Technologies:** Python, BioBERT, Pinecone, Gemini API, Gradio, PyPDF2  
 - **Live Demo:** [https://huggingface.co/spaces/Shriharsh/Diabetes_Research_ChatBot]  
-- **GitHub:** [https://github.com/Shriharsh7/Diabetes-Research-ChatBot-Powered-By-Gemini-1.5-Flash-And-Pinecone]
+- **GitHub:** [https://github.com/Shriharsh7/Diabetes-Research-ChatBot-Powered-By-Gemini-2.0-Flash-And-Pinecone]
 
 ### TweetSenseAI with LLaMA-3
 - **Description:** Fetches tweets via the X API and analyzes them using LLaMA-3-8B for sentiment and summarization. Optimized for Google Colab with a Tesla T4 GPU.
