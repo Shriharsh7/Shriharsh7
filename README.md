@@ -8,7 +8,7 @@
 
 **ML Engineer | Passionate about NLP, Computer Vision and Building Impactful Projects**
 
-Hi! I’m Shriharsh Bankapur, an aspiring ML Engineer passionate about NLP, Computer Vision and creating solutions that make a difference. From building a tweet sentiment analyzer with LLaMA-3 to developing a diabetes research chatbot using Gemini 1.5 Flash and Pinecone, I love tackling real-world challenges with AI. My goal is to push the boundaries of what’s possible with machine learning. Check out my projects and skills below!  
+Hi! I’m Shriharsh Bankapur, an aspiring ML Engineer passionate about NLP, Computer Vision and creating solutions that make a difference. From building a tweet sentiment analyzer with LLaMA-3 to developing a diabetes research chatbot using Gemini 2.0 Flash and Pinecone, I love tackling real-world challenges with AI. My goal is to push the boundaries of what’s possible with machine learning. Check out my projects and skills below!  
 
 ---
 
